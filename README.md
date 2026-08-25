@@ -71,7 +71,7 @@ I'm a results-driven **Full Stack Developer** with **4+ years of experience** de
 | **Intern (PHP & Laravel Developer)** | Lightning IT Solution — Rawalpindi | 2021 – 2022 |
 
 <details>
-<summary><b>🏢 Full-Stack Web Application Developer — AIOU (2024 – Present)</b></summary>
+<summary><b>🏢 Full-Stack Web Application Developer — AIOU (2024 – 2026)</b></summary>
 <br>
 
 - Develop and maintain web applications and internal systems using PHP, Laravel, JavaScript, and MySQL
