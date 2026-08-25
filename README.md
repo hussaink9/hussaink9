@@ -18,8 +18,8 @@
 
 I'm a results-driven **Full Stack Developer** with **4+ years of experience** designing, developing, and maintaining web applications using **PHP, Laravel, JavaScript, HTML, CSS, Bootstrap, and MySQL**. I specialize in building scalable, secure applications, developing **RESTful APIs**, integrating third-party services, and optimizing application performance.
 
-- 🔭 Currently working as a **Full-Stack Web Application Developer** at the **ICT Department, Allama Iqbal Open University (AIOU)**
-- 🌱 Currently building an **AI-powered assistive device (Smart Cap)** for visually impaired persons
+- 💻 Full-Stack Web Developer with experience in Laravel, PHP, JavaScript, PostgreSQL, and MySQL
+- 🌱 Currently exploring new opportunities and expanding my skills in modern web development
 - 💬 Ask me about **PHP, Laravel, REST APIs, MySQL/PostgreSQL, Bootstrap**
 - 📫 Reach me at **husssaink9@gmail.com**
 - ⚡ Fun fact: When I'm not coding, I enjoy **photography, gaming, and reading tech blogs**
