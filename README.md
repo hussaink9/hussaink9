@@ -66,7 +66,7 @@ I'm a results-driven **Full Stack Developer** with **4+ years of experience** de
 
 | Role | Company | Duration |
 |---|---|---|
-| **Full-Stack Web Application Developer** | ICT Department, Allama Iqbal Open University (AIOU) — Islamabad | 2024 – Present |
+| **Full-Stack Web Application Developer** | ICT Department, Allama Iqbal Open University (AIOU) — Islamabad | 2024 – 2026 |
 | **Freelance Web Developer** | Fiverr · Upwork · Freelancer | 2022 – 2024 |
 | **Intern (PHP & Laravel Developer)** | Lightning IT Solution — Rawalpindi | 2021 – 2022 |
 
